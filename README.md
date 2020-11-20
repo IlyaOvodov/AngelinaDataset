@@ -11,7 +11,7 @@ Each group of files is split into train and validation sets. Appropriate image l
 | handwritten | 22 | 6 | 28 |
 | not braille | 44 |  | 44 |
 
-
+<div align=center><img width="40%" src="pics/raw.jpg?raw=true"/>&nbsp;&nbsp;<img width="40%" src="pics/labeled.jpg?raw=true"/></div> 
 
 Label files has [LabelMe](https://github.com/wkentaro/labelme) JSON format. For two-side pages only front side is labeled.
 
